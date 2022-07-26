@@ -43,8 +43,11 @@
 |6|2022.05.29|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)<br/>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)<br/>[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)<br/>[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)<br/>[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)<br/>[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)<br/>[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)<br/>[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<br/>[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)<br/>[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)<br/>|`완료`|
 |7|2022.06.05|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)<br/>[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)<br/>[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)<br/>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)<br/>[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)<br/>[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)<br/>[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)<br/>[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)<br/>[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)<br/>[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)<br/>[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)<br/>[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)<br/>|`완료`|
 |8|2022.06.12|알고리즘 책 탐욕법과 구현 공부 및 정리|`완료`|
-|9|2022.06.19|알고리즘 책 DFS / BFS 정리|`진행중`|
-|10|2022.06.26|알고리즘 책 탐색 정리|`진행 예정`|
+|9|2022.06.19|알고리즘 책 DFS / BFS 정리|`완료`|
+|10|2022.06.26|알고리즘 책 정렬 정리|`완료`|
+|11|2022.07.10|알고리즘 책 이진 탐색 정리|`완료`|
+|12|2022.07.24|알고리즘 책 다이나믹 프로그래밍 정리|`완료`|
+|13|2022.08.07|백준 다이나믹프로그래밍 문제 풀이 <br/>[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)<br/>[계단 오르기](https://www.acmicpc.net/problem/9095)<br/>[2xn 타일링](https://www.acmicpc.net/problem/11726)<br/>[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)<br/>[퇴사2](https://www.acmicpc.net/problem/15486)|`진행중`|
 
 ## 풀이
 |날짜|문제|코드|
@@ -102,3 +105,7 @@
 |2022.06.05|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[HEROHJK](Programmers/HEROHJK/12969.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/12969.swift)<br/>[nomore12](Programmers/NOMORE12/12969.js)|
 |2022.06.12|알고리즘 교재 Chapter 03 탐욕 정리|[HEROHJK](Book/HEROHJK/Chapter03.md)<br/>[KWiOS0101](Book/KWiOS0101/Chapter03.md)<br/>[nomore12](Book/NOMORE12/Chapter03.md)|
 |2022.06.12|알고리즘 교재 Chapter 04 구현 정리|[HEROHJK](Book/HEROHJK/Chapter04.md)<br/>[KWiOS0101](Book/KWiOS0101/Chapter04.md)<br/>[nomore12](Book/NOMORE12/Chapter04.md)|
+|2022.06.19|알고리즘 교제 Chapter 05 DFS/BFS 정리|[HEROHJK](Book/HEROHJK/Chapter05.md)<br/>[KWiOS0101](Book/KWiOS0101/Chapter05.md)|
+|2022.06.26|알고리즘 교재 Chapter 06 정렬 정리|[HEROHJK](Book/HEROHJK/Chapter06.md)<br/>[KWiOS0101](Book/KWiOS0101/Chapter06.md)|
+|2022.07.10|알고리즘 교재 Chapter 07 이진 탐색 정리|[HEROHJK](Book/HEROHJK/Chapter07.md)<br/>[KWiOS0101](Book/KWiOS0101/Chapter07.md)|
+|2022.07.24|알고리즘 교재 Chapter 08 다이나믹 프로그래밍 정리|[HEROHJK](Book/HEROHJK/Chapter08.md)<br/>[KWiOS0101](Book/KWiOS0101/Chapter08.md)|
